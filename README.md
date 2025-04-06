@@ -1,3 +1,3 @@
 # AgnoGroq-Agents
 
-Build a Team of AI Agents for Your Website for Free Using Agno and Groq
+Build a Team of AI Agents for Your Website  Using Agno and Groq
